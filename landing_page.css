@@ -1,0 +1,23 @@
+body {
+    /* background-color: rgba(10, 82, 10, 0.242); */
+    background-image: url("images/paper-texture-colorful-abstract-background.jpg");
+    background-size: cover;
+  }
+
+@font-face {
+    font-family: LeagueScript;
+    src: url("fonts/League_Script/LeagueScript-Regular.ttf");
+  }
+
+h1 {
+    font-family: LeagueScript;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+    font-size: 80px;
+}
+
+p {
+    font-family: verdana;
+    font-size: 12px;
+  }
